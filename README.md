@@ -1,3 +1,5 @@
+As I now found [Sude-](https://github.com/Sude-/)'s [lgogdownloader](https://github.com/Sude-/lgogdownloader), consider this script discontinued.
+
 gog_downloader
 ==============
 Download GoG games under Linux
